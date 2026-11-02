@@ -1,4 +1,4 @@
-# applystead-com
+# Applystead
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,38 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-applystead-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://applystead.com/
+Applystead is a job‑search workspace that uses AI to help users tailor resumes, automate applications, and manage interview preparation. Users can create free keyword‑checking tools, store multiple resume versions, and, on paid plans, let Applystead automatically submit applications with user approval. The platform emphasizes data ownership, offering tools for career planning, salary insights, and job‑search analytics without requiring an account for basic features.
+
+**Areas:** Job Search · AI · Resume · Automation · Career
+
+## Applystead on APIs.io
+
+Everything profiled for Applystead is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/applystead-com/](https://apis.io/providers/applystead-com/)** — or go straight to one of the APIs or properties below.
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://applystead.com/)
+- [Documentation](https://applystead.com/guides)
+- [Pricing](https://applystead.com/pricing)
+- [Support](https://applystead.com/support)
+- [Blog](https://applystead.com/blog)
+- [Terms of service](https://applystead.com/terms)
+- [Privacy policy](https://applystead.com/privacy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/applystead-com/](https://apis.io/providers/applystead-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Applystead: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/applystead-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
